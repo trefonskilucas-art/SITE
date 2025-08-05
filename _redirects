@@ -1,0 +1,7 @@
+# Redirections Netlify
+# Gestion des erreurs 404
+/*    /index.html   200
+
+# Formulaires Netlify
+/contact    /contact.html    200
+/merci      /merci.html      200
